@@ -1,0 +1,42 @@
+# Ignore build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio-specific folders
+.vs/
+Generated_Code/
+
+# Logs and crash reports
+*.log
+*.tlog
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Entity Framework Migrations
+Migrations/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Rider & JetBrains
+.idea/
+*.sln.iml
+
+# Others
+*.cache
+*.bak
+*.tmp
