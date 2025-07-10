@@ -59,7 +59,7 @@ TestEntityFramework/
 
 ## 📸 Screenshot (Optional)
 
-![screenshot](https://via.placeholder.com/800x400.png?text=App+Demo+Screenshot)
+![screenshot](C:\Users\SHAJIB\Pictures\Screenshots\Screenshot 2025-07-09 170859.png)
 
 ---
 
